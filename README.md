@@ -10,14 +10,14 @@
 
 使用方式：
 1、下载此代码到本地。
-2、下载训练的模型。位置在。
+2、下载训练的模型。位置在https://u17749188.pipipan.com/fs/17749188-297253710。
 	下载后放到models目录下。
 3、运行python ali_wx_wiki_vec_compare.py ./input_test.txt ./temp/
 4、结果在temp目录下。
 
 训练：
 1、下载数据到本地。拷贝到此代码大的根目录下。
-	数据位置：
+	数据公开的网址稍后更新。
 2、运行如下脚本即可。
 	python word2vec_train.py
 
